@@ -1,5 +1,0 @@
-streamlit>=1.39
-pandas>=2.0
-SpeechRecognition>=3.10
-boto3>=1.35
-
